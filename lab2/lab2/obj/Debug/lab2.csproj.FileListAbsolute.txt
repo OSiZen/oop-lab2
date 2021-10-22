@@ -1,0 +1,14 @@
+C:\Users\Oleksandr\source\repos\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Oleksandr\source\repos\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Oleksandr\source\repos\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Oleksandr\source\repos\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\source\repos\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Oleksandr\source\repos\lab2\lab2\obj\Debug\lab2.pdb
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\bin\Debug\lab2.exe
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\bin\Debug\lab2.pdb
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\obj\Debug\lab2.exe
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab2\lab2\obj\Debug\lab2.pdb
